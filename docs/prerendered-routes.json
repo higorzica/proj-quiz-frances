@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/",
+    "/categoria",
+    "/quizz/herois",
+    "/quizz/parlefrancais"
+  ]
+}

@@ -1,0 +1,57 @@
+  {
+      "title":"Vous êtes develoupper web ?",
+      "questions":[
+        {
+          "id":1,
+          "categories": "parlefrancais",
+          "question": "Alors, est-ce que vous pouvez vous présenter, sil vous plaît?",
+          "options":[
+            {"id": 1, "name":"Je m'appele Higor Zica, je suis bresilien, j'ai un diplôme en Administration et j'ai 28 ans. Je suis develoupper PHP depuis 2 ans.", "alias":"A"},
+            {"id": 2, "name":"Enchante, Je suis fou !", "alias":"B"},
+            {"id": 3, "name":"Pardon, j'ai oublié mon nom!", "alias":"B"}
+          ]
+        },
+        {
+          "id":2,
+          "categories": "parlefrancais",
+          "question": "Pourriez-vous me citer 3 de vos qualités ?",
+          "options":[
+            {"id": 1, "name":"Je suis une persone responsable, passione por la tecnology et créatif.", "alias":"A"},
+            {"id": 2, "name":"Mes principales qualités sont échapper au travail, dormi et mets ta femme en colère.", "alias":"B"}
+          ]
+        },
+        {
+          "id":3,
+          "categories": "parlefrancais",
+          "question": "Bon, alors et quelles sont, selon vous, vos compétences ?",
+          "options":[
+            {"id": 1, "name":"Je connais les technologies principalement PHP avec le framework (laravel), JAVASCRIPT avec les framework (angular et react). Également je travaillé comme soutien technique alors je sais écouter bien les clients, et conselier pour faire le meilleur choix. ", "alias":"A"},
+            {"id": 2, "name":"Pardon mes en vrai je suis un incompétent.", "alias":"B"}
+          ]
+        },
+        {
+          "id":4,
+          "categories": "parlefrancais",
+          "question": "Pouquoi souhaitez-vous quitter votre poste actuel ?",
+          "options":[
+            {"id": 1, "name":"Parce que comme actualment j'ai habite en France, je voudrais me lancer de nouveaux défis et aussi je sans ça que j'ai besoin d'évoluer.", "alias":"A"},
+            {"id": 2, "name":"Parce que je voudrais changer de secteur et aussi je sais que votre entreprise por le poste et très intéressante.", "alias":"A"},
+            {"id": 3, "name":"Parce que je sais pas.", "alias":"B"}
+          ]
+        },
+        {
+          "id":5,
+          "categories": "parlefrancais",
+          "question": "Bon, parle-moi un peu de votre parcours professionnel s'il vous plait ?",
+          "options":[
+            {"id": 1, "name":"J'ai travaillé dans l'enterprise Academic Softwares au Brésil pendant 6 ans. J'ai d'abord été soutien technique, puis je suis developpeur PHP. Avant Avant d'être étudiant a la fac de Administration et fais aussi otres petites services.", "alias":"A"},
+            {"id": 2, "name":"Pardon je sais pas dire rien en français, je suis null.", "alias":"B"}
+          ]
+        }
+      ],
+      "results":{
+        "A": "Vous seriez probablement un excellent développeur Web !",
+        "B": "Vous ne seriez probablement pas un développeur Web !"
+      }
+    
+  }
