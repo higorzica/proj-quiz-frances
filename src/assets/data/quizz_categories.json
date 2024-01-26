@@ -1,0 +1,32 @@
+  {
+      "categories":[
+        {
+          "id": 1,
+          "name": "Heroes",
+          "description": "Descrubra se você é capaz de ser um SUPER HEROI ou um SUPER VILÃO!",
+          "rota": "quizz/herois",
+          "img": "assets/images/gif/heroes-category.gif"
+        },
+        {
+          "id": 2,
+          "name": "Parle Français dans une Entretien",
+          "description": "Quiz voltado para treinar a lingua francesa para uma entrevista de emprego real!",
+          "rota": "quizz/parlefrancais",
+          "img": "assets/images/Entretien-Foto.png"
+        },
+        {
+          "id": 3,
+          "name": "Você conhece Paris?",
+          "description": "Descrubra se você é capaz de ser um Parisiense Nativo ou um Parisiense Nutela?",
+          "rota": "quizz/herois",
+          "img": "assets/images/gif/paris-category.webp"
+        },
+        {
+          "id": 4,
+          "name": "montpellier",
+          "description": "Heroes",
+          "rota": "quizz/herois",
+          "img": "assets/images/gif/montpellier-category.webp"
+        }
+      ]
+  }
